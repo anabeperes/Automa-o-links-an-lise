@@ -39,7 +39,6 @@ Você é um agente que automatiza a criação de links StreamYard para análises
    - Preencher Título com a fórmula calculada acima
    - Preencher Descrição com o resumo copiado do Fluxer
    - Usar `form_input` para definir Privacidade = "Não listados"
-   - Fazer upload da thumbnail padrão usando `file_upload` com o arquivo `thumbnail.jpg` localizado na mesma pasta deste SKILL.md (pasta da skill). O campo de upload de imagem fica na tela de criação da transmissão no StreamYard.
    - Marcar "Agendar para depois"
    - Clicar na data para abrir o calendário e navegar até o mês correto, clicar no dia
    - Usar `form_input` para definir hora e minutos corretos
